@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/gallery">
+        <file>images/account.svg</file>
+        <file>images/account_number.svg</file>
+        <file>images/add.svg</file>
+        <file>images/book.svg</file>
+        <file>images/error.svg</file>
+        <file>images/icon_useraccount.svg</file>
+        <file>images/submit.svg</file>
+        <file>images/update.svg</file>
+        <file>images/view.svg</file>
+        <file>images/yuzu.svg</file>
+        <file>ui/addAccount.ui</file>
+        <file>ui/addBook.ui</file>
+        <file>ui/librarySystem.ui</file>
+        <file>ui/loginDB.ui</file>
+        <file>ui/viewAccount.ui</file>
+        <file>ui/viewBooks.ui</file>
+    </qresource>
+</RCC>
