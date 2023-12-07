@@ -36,6 +36,8 @@ Python3.9.13 is used to pass.
 
 #### 3.1. Install dependencies
 
+It is suggested to install in virtual environment.
+
 ```shell
 pip install -r requirements.txt
 ```
@@ -54,7 +56,7 @@ pyinstaller -F -w main.py
 
 ### 4. Screenshots
 
-![1](resource/doc/images/1.png) 
+![1](resource/doc/images/1.png)
 ![2](resource/doc/images/2.png)
 ![3](resource/doc/images/3.png)
 ![4](resource/doc/images/4.png)

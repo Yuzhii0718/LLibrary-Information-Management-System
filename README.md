@@ -34,6 +34,8 @@ Python3.9.13 使用通过。
 
 #### 3.1. 安装依赖
 
+建议使用虚拟环境安装。
+
 ```shell
 pip install -r requirements.txt
 ```
