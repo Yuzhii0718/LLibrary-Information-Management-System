@@ -33,6 +33,7 @@ application
 ### 3. Usage
 
 Python3.9.13 is used to pass.
+MySQL 8.0.33/35 is used to pass.
 
 #### 3.1. Install dependencies
 

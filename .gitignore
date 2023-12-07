@@ -28,3 +28,6 @@ download/
 # 忽略构建文件夹
 build/
 dist/
+
+# 忽略打包临时文件
+main.spec
