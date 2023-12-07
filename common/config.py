@@ -7,7 +7,7 @@
 YEAR = 2023
 AUTHOR = "Yuzhii Group"
 DEVER1 = "Yuzhii0718"
-DEVER2 = "Yuzhii0718"
+DEVER2 = "Apricityiii"
 DEVER3 = "Yuzhii0718"
 VERSION = "1.0.0"
 HELP_URL = "www.example.com"
